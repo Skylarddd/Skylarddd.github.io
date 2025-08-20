@@ -17,42 +17,70 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Dr. Jie Ma.
+Jie Ma （马洁）is a PhD at the Department of Electrical Engineering and Electronics, the University of Liverpool, UK.
+Her work focuses on developing practical physical-layer security solutions for future wireless technologies. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+She has been exploring wireless security mechanisms for Internet of Things (IoT) devices.
+Her research interests include:
+- wireless communications
+- pyhsical-layer security
+- artificial intelligence.
+
+Before Liverpool, she obtained her master’s degree from the Beijing University of Posts and Telecommunications and her bachelor’s degree from Harbin Engineering University.
+
+**She is currently on the job market and warmly welcomes opportunities for collaboration.**
+
+
+
+<!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08*: &nbsp;🎉 Jie Ma passed her VIVA
+- *2025.01*: &nbsp;🎉 Paper Accepted for WCNC 2025
+- *2024.10*: &nbsp;🎉 Attend workshop: the UK-FNI Hothouse in Future Networks
+- *2023.01*: &nbsp;🎉 Paper Accepted for ICC 2023
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Towards Channel-Robust Radio Frequency Fingerprint Identification Using Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10978330), **Jie Ma**, J. Zhang, G. Shen, L. Peng, A. Marshall, C.-H Chang. **WCNC 2025**
+- [Adversarial Attacks Against Deep Learning-Based Radio Frequency Fingerprint Identification](https://ieeexplore.ieee.org/abstract/document/10278927), **Jie Ma**, J. Zhang, G. Shen, A. Marshall, C.-H Chang. **ICC 2023**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.06*, Outstanding Graduate of Beijing
+- *2023.07*, Outstanding Presentation Award, the 4th ABCP Annual Conference
+- *2021-2025*, The University of Liverpool and China Scholarship Council Awards
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.07 - 2025.08*, PhD, Electrical and Electronic Engineering, University of Liverpool. 
+- *2017.09 - 2020.06*, Master, Electrical and Electronic Engineering, Beijing University of Posts and Telecommunications. 
+- *2013.08 - 2017.06*, Bachelor, Communication Engineering, Harbin Engineering University. 
+
+# ✏️ Academic Service
+Reviewer:
+- IEEE Transactions on Information Forensics and Security
+- IEEE Signal Processing Letters
+- GlobalCom 2025
+- INFOCOM 2024
+- ICC 2023, 2024
+- VTC 2023
+
+
+# 🧑‍🏫 Teaching Assistant
+- ELEC 431 (Engineering Programming, MATLAB)
+- ELEC 373 (Digital System Design, FPGA)
+- ELEC 211 (Digital Electronics and Microprocessor Systems, MATLAB)
+
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.01*, Jinan University, Guangdong, China.
+- *2023.07*, 4th Association of British Chinese Professors (ABCP Annual Conference).
+<!-- - *2023.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.01 - 2019.06*, IBM, Beijing, China.
+
+# 🏃 Hobby
+- Squash, badminton, hiking, reading.
+
+# 📧 Email
+- majie945@gmail.com
