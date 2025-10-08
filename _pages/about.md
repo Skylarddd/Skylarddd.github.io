@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jie Ma （马洁）is a PhD at the Department of Electrical Engineering and Electronics, the University of Liverpool, UK.
+Jie Ma （马洁）is a PhD at the School of Computer Science and Informatics, the University of Liverpool, UK.
 Her work focuses on developing practical physical-layer security solutions for future wireless technologies. 
 
 She has been exploring wireless security mechanisms for Internet of Things (IoT) devices.
