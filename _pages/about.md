@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jie Ma （马洁）is a PhD at the School of Computer Science and Informatics, the University of Liverpool, UK.
+Jie Ma （马洁）is a research associate at the School of Computer Science and Informatics, the University of Liverpool, UK.
 Her work focuses on developing practical physical-layer security solutions for future wireless technologies. 
 
 She has been exploring wireless security mechanisms for Internet of Things (IoT) devices.
@@ -26,9 +26,10 @@ Her research interests include:
 - pyhsical-layer security
 - artificial intelligence.
 
-Before Liverpool, she obtained her master’s degree from the Beijing University of Posts and Telecommunications and her bachelor’s degree from Harbin Engineering University.
+<!-- Before Liverpool, she obtained her master’s degree from the Beijing University of Posts and Telecommunications and her bachelor’s degree from Harbin Engineering University. -->
+She obtained her PhD's degree from the University of Liverpool, master’s degree from the Beijing University of Posts and Telecommunications, and bachelor’s degree from Harbin Engineering University.
 
-**She is currently on the job market and warmly welcomes opportunities for collaboration.**
+<!-- **She is currently on the job market and warmly welcomes opportunities for collaboration.** -->
 
 
 
@@ -36,7 +37,8 @@ Before Liverpool, she obtained her master’s degree from the Beijing University
 
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉 Jie Ma passed her VIVA
+- *2025.10*: &nbsp;🎉 Continued at the UoL as a Research Associate
+- *2025.08*: &nbsp;🎉 Passed VIVA
 - *2025.01*: &nbsp;🎉 Paper Accepted for WCNC 2025
 - *2024.10*: &nbsp;🎉 Attend workshop: the UK-FNI Hothouse in Future Networks
 - *2023.01*: &nbsp;🎉 Paper Accepted for ICC 2023
@@ -50,8 +52,12 @@ Before Liverpool, she obtained her master’s degree from the Beijing University
 - *2023.07*, Outstanding Presentation Award, the 4th ABCP Annual Conference
 - *2021-2025*, The University of Liverpool and China Scholarship Council Awards
 
+# 💼 Works
+- *2025.10 - Present*, Research Associate, Trustworthy Computing, University of Liverpool. 
+
+
 # 📖 Educations
-- *2021.07 - 2025.08*, PhD, Electrical and Electronic Engineering, University of Liverpool. 
+- *2021.07 - 2025.08*, PhD, Electrical Engineering Electronics and Computer Science, University of Liverpool. 
 - *2017.09 - 2020.06*, Master, Electrical and Electronic Engineering, Beijing University of Posts and Telecommunications. 
 - *2013.08 - 2017.06*, Bachelor, Communication Engineering, Harbin Engineering University. 
 
