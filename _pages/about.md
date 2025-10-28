@@ -38,6 +38,7 @@ She obtained her PhD's degree from the University of Liverpool, master’s degre
 
 # 🔥 News
 - *2025.10*: &nbsp;🎉 Continued at the UoL as a Research Associate
+- *2025.09*: &nbsp;🎉 Attend training school on Cyber-Physical System Security (COST Action)
 - *2025.08*: &nbsp;🎉 Passed VIVA
 - *2025.01*: &nbsp;🎉 Paper Accepted for WCNC 2025
 - *2024.10*: &nbsp;🎉 Attend workshop: the UK-FNI Hothouse in Future Networks
