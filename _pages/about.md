@@ -48,7 +48,10 @@ She obtained her PhD's degree from the University of Liverpool, master’s degre
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS</div><img src='images/siamese.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- [Towards Channel-Robust and Receiver-Independent Radio Frequency Fingerprint Identification](https://ieeexplore.ieee.org/document/11232481), **Jie Ma**, J. Zhang, G. Shen, L. Peng, A. Marshall. **TIFS 2025**
+[Towards Channel-Robust and Receiver-Independent Radio Frequency Fingerprint Identification](https://ieeexplore.ieee.org/document/11232481)
+**Jie Ma**, J. Zhang, G. Shen, L. Peng, A. Marshall 
+</div>
+</div>
 - [Towards Channel-Robust Radio Frequency Fingerprint Identification Using Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10978330), **Jie Ma**, J. Zhang, G. Shen, L. Peng, A. Marshall. **WCNC 2025**
 - [Adversarial Attacks Against Deep Learning-Based Radio Frequency Fingerprint Identification](https://ieeexplore.ieee.org/abstract/document/10278927), **Jie Ma**, J. Zhang, G. Shen, A. Marshall, C.-H Chang. **ICC 2023**
 
