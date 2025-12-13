@@ -37,15 +37,20 @@ She obtained her PhD's degree from the University of Liverpool, master’s degre
 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉 Paper Accepted for IEEE Transactions on Mobile Computing
 - *2025.11*: &nbsp;🎉 Paper Accepted for IEEE Transactions on Information Forensics and Security
 - *2025.10*: &nbsp;🎉 Continued at the UoL as a Research Associate
-- *2025.09*: &nbsp;🎉 Attend training school on Cyber-Physical System Security (COST Action)
 - *2025.08*: &nbsp;🎉 Passed VIVA
 - *2025.01*: &nbsp;🎉 Paper Accepted for WCNC 2025
-- *2024.10*: &nbsp;🎉 Attend workshop: the UK-FNI Hothouse in Future Networks
 - *2023.01*: &nbsp;🎉 Paper Accepted for ICC 2023
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS</div><img src='images/syn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Adversarial Attacks Against Deep Learning-Based Radio Frequency Fingerprint Identification](https://ieeexplore.ieee.org/document/11232481)
+**Jie Ma**, J. Zhang, G. Shen, A. Marshall, CH. Chang
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS</div><img src='images/siamese.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Towards Channel-Robust and Receiver-Independent Radio Frequency Fingerprint Identification](https://ieeexplore.ieee.org/document/11232481)
