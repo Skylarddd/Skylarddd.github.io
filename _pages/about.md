@@ -45,7 +45,7 @@ She obtained her PhD's degree from the University of Liverpool, master’s degre
 - *2023.01*: &nbsp;🎉 Paper Accepted for ICC 2023
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS</div><img src='images/syn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC</div><img src='images/RFFI_with_attack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Adversarial Attacks Against Deep Learning-Based Radio Frequency Fingerprint Identification](https://ieeexplore.ieee.org/document/11232481)
 **Jie Ma**, J. Zhang, G. Shen, A. Marshall, CH. Chang
