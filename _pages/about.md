@@ -47,7 +47,7 @@ She obtained her PhD's degree from the University of Liverpool, master’s degre
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC</div><img src='images/RFFI_with_attack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Adversarial Attacks Against Deep Learning-Based Radio Frequency Fingerprint Identification](https://ieeexplore.ieee.org/document/11232481)
+[Adversarial Attacks Against Deep Learning-Based Radio Frequency Fingerprint Identification](https://ieeexplore.ieee.org/document/11304531)
 **Jie Ma**, J. Zhang, G. Shen, A. Marshall, CH. Chang
 </div>
 </div>
@@ -58,12 +58,13 @@ She obtained her PhD's degree from the University of Liverpool, master’s degre
 </div>
 </div>
 - [Towards Channel-Robust Radio Frequency Fingerprint Identification Using Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10978330), **Jie Ma**, J. Zhang, G. Shen, L. Peng, A. Marshall. **WCNC 2025**
-- [Adversarial Attacks Against Deep Learning-Based Radio Frequency Fingerprint Identification](https://ieeexplore.ieee.org/abstract/document/10278927), **Jie Ma**, J. Zhang, G. Shen, A. Marshall, C.-H Chang. **ICC 2023**
+- [White-Box Adversarial Attacks on Deep Learning-Based Radio Frequency Fingerprint Identification](https://ieeexplore.ieee.org/abstract/document/10278927), **Jie Ma**, J. Zhang, G. Shen, A. Marshall, C.-H Chang. **ICC 2023**
 
 # 🎖 Honors and Awards
-- *2020.06*, Outstanding Graduate of Beijing
 - *2023.07*, Outstanding Presentation Award, the 4th ABCP Annual Conference
 - *2021-2025*, The University of Liverpool and China Scholarship Council Awards
+- *2020.06*, Outstanding Graduate of Beijing
+
 
 # 💼 Works
 - *2025.10 - Present*, Research Associate, Trustworthy Computing, University of Liverpool. 
@@ -77,6 +78,7 @@ She obtained her PhD's degree from the University of Liverpool, master’s degre
 # ✏️ Academic Service
 Reviewer:
 - IEEE Transactions on Information Forensics and Security
+- IEEE Journal on Selected Areas in Communications
 - IEEE Signal Processing Letters
 - GlobalCom 2025
 - INFOCOM 2024
