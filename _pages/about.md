@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jie Ma （马洁）is a research associate at the School of Computer Science and Informatics, the University of Liverpool, UK.
-Her work focuses on developing practical physical-layer security solutions for future wireless technologies. 
+Jie Ma （马洁）is a research associate at the School of Computing, Newcastle University, UK.
+Her work focuses on generative AI models for health data and practical physical-layer security solutions for future wireless technologies. 
 
 She has been exploring wireless security mechanisms for Internet of Things (IoT) devices.
 Her research interests include:
+- artificial intelligence
+- data analyse
 - wireless communications
-- pyhsical-layer security
-- artificial intelligence.
+- pyhsical-layer security.
 
 <!-- Before Liverpool, she obtained her master’s degree from the Beijing University of Posts and Telecommunications and her bachelor’s degree from Harbin Engineering University. -->
 She obtained her PhD's degree from the University of Liverpool, master’s degree from the Beijing University of Posts and Telecommunications, and bachelor’s degree from Harbin Engineering University.
@@ -67,7 +68,8 @@ She obtained her PhD's degree from the University of Liverpool, master’s degre
 
 
 # 💼 Works
-- *2025.10 - Present*, Research Associate, Trustworthy Computing, University of Liverpool. 
+- *2026.06 - Present*, Research Associate, Computing, Newcastle University.
+- *2025.10 - 2026.03*, Research Associate, Trustworthy Computing, University of Liverpool.  
 
 
 # 📖 Educations
@@ -80,10 +82,14 @@ Reviewer:
 - IEEE Transactions on Information Forensics and Security
 - IEEE Journal on Selected Areas in Communications
 - IEEE Signal Processing Letters
-- GlobalCom 2025
+- GlobalCom 2026, 2025
 - INFOCOM 2024
 - ICC 2023, 2024
 - VTC 2023
+
+TPC Member:
+- GlobalCom 2026
+- ICC 2026
 
 
 # 🧑‍🏫 Teaching Assistant

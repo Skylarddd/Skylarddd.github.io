@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jie Ma's Homepage"
-description              : "A passionate wireless researcher."
+description              : "A passionate researcher."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jie Ma"
   avatar           : "images/WechatIMG1532.jpg"
-  bio              : "Ph.D. in the University of Liverpool"
-  location         : "Liverpool, United Kingdom"
+  bio              : "Researcher Associate in the Newcastle University"
+  location         : "Newcastle, United Kingdom"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=mOFya-IAAAAJ&hl=en"
