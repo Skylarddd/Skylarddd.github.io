@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Jie Ma （马洁）is a research associate at the School of Computing, Newcastle University, UK.
-Her work focuses on generative AI models for health data and wireless security mechanisms for Internet of Things (IoT) devices. 
+Her work focuses on generative AI models for health data and wireless security for Internet of Things (IoT) devices. 
 
 Her research interests include:
 - artificial intelligence
@@ -61,13 +61,12 @@ She obtained her PhD's degree from the University of Liverpool, master’s degre
 
 # 🎖 Honors and Awards
 - *2023.07*, Outstanding Presentation Award, the 4th ABCP Annual Conference
-- *2021-2025*, The University of Liverpool and China Scholarship Council Awards
 - *2020.06*, Outstanding Graduate of Beijing
 
 
 # 💼 Works
-- *2026 - Present*, Research Associate, Computing, Newcastle University.
-- *2025 - 2026*, Research Associate, Trustworthy Computing, University of Liverpool.  
+- *2026 - Present*, Research Associate, School of Computing, Newcastle University.
+- *2025 - 2026*, Research Associate, School of Computer Science and Informatics, University of Liverpool.  
 
 
 # 📖 Educations
@@ -79,10 +78,12 @@ She obtained her PhD's degree from the University of Liverpool, master’s degre
 Reviewer:
 - IEEE Transactions on Information Forensics and Security
 - IEEE Journal on Selected Areas in Communications
+- IEEE Transactions on Vehicular Technology
+- IEEE Transactions on Mobile Computing
 - IEEE Signal Processing Letters
 - GlobalCom 2026, 2025
-- INFOCOM 2024
 - ICC 2023, 2024
+- INFOCOM 2024
 - VTC 2023
 
 TPC Member:
